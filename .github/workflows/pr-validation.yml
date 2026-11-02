@@ -22,3 +22,5 @@ jobs:
           python-version: '3.12'
       - name: Validate tracked files and chapter inventory
         run: python scripts/verify_foundation.py
+      - name: Validate complete book inventories
+        run: python scripts/validate_inventory.py

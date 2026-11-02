@@ -1,0 +1,128 @@
+﻿book_id,entry_id,entry_kind,order_in_book,original_title,title_qualifier,parent_series,attributed_author,printed_page,printed_page_num,pdf_page,pdf_page_position,source_file,language,toc_status,body_status,translation_status,review_notes
+book-1,cover,cover,1,要開悟，讀這本書就夠了,,,江慶淇（著）,,,1,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,封面（印刷全文第1頁為圖片頁，無文字層）。書名「要開悟，讀這本書就夠了」另經來源檔「印刷封面」PDF文字層直書複核（含逗號），與書內序文引用形式一致；封面圖像VLM轉錄含作者「江慶淇 著」與推介文字。無印刷頁碼（000–001，拼版幾何推定）。
+book-1,preface-01,preface,2,靈性開悟宇宙合一,,推薦序,吳錦珠,002,2,2,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,TOC列：推薦序｜靈性開悟宇宙合一／吳錦珠。序文標籤（推薦序）作為parent_series記錄；正文第2頁起，版面頂部直排標題欄與跑頁眉核對一致。
+book-1,preface-02,preface,3,眼前所遇，即其所需,,作者序,江慶淇,005,5,3,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,TOC列：作者序｜眼前所遇，即其所需／江慶淇。序文標籤（作者序）作為parent_series記錄；正文第5頁起，版面頂部直排標題欄與跑頁眉核對一致。
+book-1,preface-03,foreword,4,道德是宇宙萬物的基石,,江嘉祁序,江嘉祁,007,7,4,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,TOC列：道德是宇宙萬物的基石／江嘉祁。序文標籤（江嘉祁序）作為parent_series記錄；正文第7頁起，版面頂部直排標題欄與跑頁眉核對一致。
+book-1,toc,toc,5,目錄,,目錄,,008,8,5,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,body-verified,not-started,目錄本身為內容單元；佔印刷頁008–013（PDF 5–7）；目錄頁無頁眉頁碼，印刷頁碼由拼版幾何推定並經全書頁碼連續性核對。
+book-1,chapter-01,chapter,6,本源與宇宙次元,,開悟之一,,014,14,8,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之一；TOC頁碼014與正文（第15頁起之頁眉）核對一致。 開篇版面（PDF第8頁右半直排「開悟之一／本源與宇宙次元」欄）經Phase 0.1種子清單複核。
+book-1,chapter-02,chapter,7,萬物皆有靈,,開悟之二,,023,23,12,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之二；TOC頁碼023與正文（第23頁起之頁眉）核對一致。
+book-1,chapter-03,chapter,8,所有的靈性成長，沒有一絲一毫能夠用交易行為取得,,開悟之三,,034,34,18,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之三；TOC頁碼034與正文（第35頁起之頁眉）核對一致。
+book-1,chapter-04,chapter,9,演化學習與平衡救贖,,開悟之四,,039,39,20,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之四；TOC頁碼039與正文（第39頁起之頁眉）核對一致。
+book-1,chapter-05,chapter,10,祈禱的正確方式,,開悟之五,,047,47,24,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之五；TOC頁碼047與正文（第47頁起之頁眉）核對一致。
+book-1,chapter-06,chapter,11,生命最高的目的,,開悟之六,,051,51,26,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之六；TOC頁碼051與正文（第51頁起之頁眉）核對一致。
+book-1,chapter-07,chapter,12,「動機和目的」的重要性,,開悟之七,,059,59,30,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之七；TOC頁碼059與正文（第59頁起之頁眉）核對一致。
+book-1,chapter-08,chapter,13,意識、靈魂與命運,,開悟之八,,070,70,36,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之八；TOC頁碼070與正文（第71頁起之頁眉）核對一致。
+book-1,chapter-09,chapter,14,多重宇宙與靈性次元（一）,,開悟之九,,076,76,39,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之九；TOC頁碼076與正文（第77頁起之頁眉）核對一致。
+book-1,chapter-10,chapter,15,多重宇宙與靈性次元（二）,,開悟之十,,084,84,43,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之十；TOC頁碼084與正文（第85頁起之頁眉）核對一致。
+book-1,chapter-11,chapter,16,多重宇宙與靈性次元（三）,,開悟之十一,,091,91,46,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之十一；TOC頁碼091與正文（第91頁起之頁眉）核對一致。
+book-1,chapter-12,chapter,17,複習「生命最高的目的」,,開悟之十二,,100,100,51,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之十二；TOC頁碼100與正文（第101頁起之頁眉）核對一致。
+book-1,chapter-13,chapter,18,輪迴與業力,,開悟之十三,,106,106,54,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之十三；TOC頁碼106與正文（第107頁起之頁眉）核對一致。
+book-1,chapter-14,chapter,19,生活才是你修行的重心,,開悟之十四,,113,113,57,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之十四；TOC頁碼113與正文（第113頁起之頁眉）核對一致。
+book-1,chapter-15,chapter,20,地球簡史（上）,,開悟之十五,,120,120,61,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之十五；TOC頁碼120與正文（第121頁起之頁眉）核對一致。
+book-1,chapter-16,chapter,21,地球簡史（下）,,開悟之十六,,129,129,65,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之十六；TOC頁碼129與正文（第129頁起之頁眉）核對一致。
+book-1,chapter-17,chapter,22,易經與道德經（上）,,開悟之十七,,136,136,69,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之十七；TOC頁碼136與正文（第137頁起之頁眉）核對一致。
+book-1,chapter-18,chapter,23,易經與道德經（下）,,開悟之十八,,143,143,72,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之十八；TOC頁碼143與正文（第143頁起之頁眉）核對一致。
+book-1,chapter-19,chapter,24,靈魂意識與大腦意識,,開悟之十九,,148,148,75,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之十九；TOC頁碼148與正文（第149頁起之頁眉）核對一致。
+book-1,chapter-20,chapter,25,本源的三個寓言故事,,開悟之二十,,155,155,78,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之二十；TOC頁碼155與正文（第155頁起之頁眉）核對一致。
+book-1,chapter-21,chapter,26,世界七大哉問,,開悟之二十一,,161,161,81,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之二十一；TOC頁碼161與正文（第161頁起之頁眉）核對一致。
+book-1,chapter-22,chapter,27,世界七大哉問─神性基因（上）,,開悟之二十二,,169,169,85,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,TOC作「世界七大哉問｜神性基因（上）」，正文頁眉作「世界七大哉問─神性基因（上）」；本列採正文形式，差異保留待審（見待審清單）。
+book-1,chapter-23,chapter,28,世界七大哉問─神性基因（中）,,開悟之二十三,,177,177,89,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之二十三；TOC頁碼177與正文（第177頁起之頁眉）核對一致。
+book-1,chapter-24,chapter,29,世界七大哉問─神性基因（下）,,開悟之二十四,,183,183,92,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之二十四；TOC頁碼183與正文（第183頁起之頁眉）核對一致。
+book-1,chapter-25,chapter,30,人類最容易犯的負面行為與情緒,,開悟之二十五,,188,188,95,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之二十五；TOC頁碼188與正文（第189頁起之頁眉）核對一致。
+book-1,chapter-26,chapter,31,上士聞道，勤而行之,,開悟之二十六,,195,195,98,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之二十六；TOC頁碼195與正文（第195頁起之頁眉）核對一致。
+book-1,chapter-27,chapter,32,時空維度（一）,,開悟之二十七,,204,204,103,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之二十七；TOC頁碼204與正文（第205頁起之頁眉）核對一致。
+book-1,chapter-28,chapter,33,時空維度（二）,,開悟之二十八,,211,211,106,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之二十八；TOC頁碼211與正文（第211頁起之頁眉）核對一致。
+book-1,chapter-29,chapter,34,時空維度（三）,,開悟之二十九,,218,218,110,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之二十九；TOC頁碼218與正文（第219頁起之頁眉）核對一致。
+book-1,chapter-30,chapter,35,時空維度（四）,,開悟之三十,,225,225,113,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之三十；TOC頁碼225與正文（第225頁起之頁眉）核對一致。
+book-1,chapter-31,chapter,36,允執厥中,,開悟之三十一,,230,230,116,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之三十一；TOC頁碼230與正文（第231頁起之頁眉）核對一致。
+book-1,chapter-32,chapter,37,費斯汀格法則與靈性成長的陷阱,,開悟之三十二,,238,238,120,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之三十二；TOC頁碼238與正文（第239頁起之頁眉）核對一致。
+book-1,chapter-33,chapter,38,生命的最終定數,,開悟之三十三,,245,245,123,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之三十三；TOC頁碼245與正文（第245頁起之頁眉）核對一致。
+book-1,chapter-34,chapter,39,本源的禮物與功課,,開悟之三十四,,249,249,125,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之三十四；TOC頁碼249與正文（第249頁起之頁眉）核對一致。
+book-1,chapter-35,chapter,40,金剛經真實義,,開悟之三十五,,256,256,129,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之三十五；TOC頁碼256與正文（第257頁起之頁眉）核對一致。
+book-1,chapter-36,chapter,41,靈性成長的職業選擇,,開悟之三十六,,261,261,131,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之三十六；TOC頁碼261與正文（第261頁起之頁眉）核對一致。
+book-1,chapter-37,chapter,42,靈性發展的路線圖,,開悟之三十七,,267,267,134,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之三十七；TOC頁碼267與正文（第267頁起之頁眉）核對一致。
+book-1,chapter-38,chapter,43,靈性被禁錮的三種罪責,,開悟之三十八,,270,270,136,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之三十八；TOC頁碼270與正文（第271頁起之頁眉）核對一致。
+book-1,chapter-39,chapter,44,魔與本源三定律,,開悟之三十九,,273,273,137,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之三十九；TOC頁碼273與正文（第273頁起之頁眉）核對一致。
+book-1,chapter-40,chapter,45,本源的最終定律（上）,,開悟之四十,,280,280,141,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之四十；TOC頁碼280與正文（第281頁起之頁眉）核對一致。
+book-1,chapter-41,chapter,46,本源的最終定律（下）,,開悟之四十一,,285,285,143,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之四十一；TOC頁碼285與正文（第285頁起之頁眉）核對一致。
+book-1,chapter-42,chapter,47,婚姻與孩子（上）,,開悟之四十二,,291,291,146,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之四十二；TOC頁碼291與正文（第291頁起之頁眉）核對一致。
+book-1,chapter-43,chapter,48,婚姻與孩子（下）,,開悟之四十三,,298,298,150,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之四十三；TOC頁碼298與正文（第299頁起之頁眉）核對一致。
+book-1,chapter-44,chapter,49,生命的最終成績,,開悟之四十四,,305,305,153,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之四十四；TOC頁碼305與正文（第305頁起之頁眉）核對一致。
+book-1,chapter-45,chapter,50,天地大仁,,開悟之四十五,,309,309,155,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之四十五；TOC頁碼309與正文（第309頁起之頁眉）核對一致。
+book-1,chapter-46,chapter,51,神性基因的匹配,,開悟之四十六,,316,316,159,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之四十六；TOC頁碼316與正文（第317頁起之頁眉）核對一致。
+book-1,chapter-47,chapter,52,普朗克時間的靈性意義,,開悟之四十七,,321,321,161,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之四十七；TOC頁碼321與正文（第321頁起之頁眉）核對一致。
+book-1,chapter-48,chapter,53,本源的微笑（本源祂自己的故事）（上）,,開悟之四十八,,328,328,165,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之四十八；TOC頁碼328與正文（第329頁起之頁眉）核對一致。
+book-1,chapter-49,chapter,54,本源的微笑（本源祂自己的故事）（下）,,開悟之四十九,,336,336,169,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之四十九；TOC頁碼336與正文（第337頁起之頁眉）核對一致。
+book-1,chapter-50,chapter,55,熵的定義,,開悟之五十,,344,344,173,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之五十；TOC頁碼344與正文（第345頁起之頁眉）核對一致。
+book-1,chapter-51,chapter,56,愛情的真諦（如何經營愛情）（上）,,開悟之五十一,,348,348,175,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之五十一；TOC頁碼348與正文（第349頁起之頁眉）核對一致。
+book-1,chapter-52,chapter,57,愛情的真諦（如何經營愛情）（下）,,開悟之五十二,,355,355,178,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之五十二；TOC頁碼355與正文（第355頁起之頁眉）核對一致。
+book-1,chapter-53,chapter,58,宇宙密度（上）,,開悟之五十三,,361,361,181,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之五十三；TOC頁碼361與正文（第361頁起之頁眉）核對一致。
+book-1,chapter-54,chapter,59,宇宙密度（下）,,開悟之五十四,,372,372,187,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之五十四；TOC頁碼372與正文（第373頁起之頁眉）核對一致。
+book-1,chapter-55,chapter,60,宇宙文明發展的進程,,開悟之五十五,,379,379,190,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之五十五；TOC頁碼379與正文（第379頁起之頁眉）核對一致。
+book-1,chapter-56,chapter,61,宇宙文明的毀滅方式（上）,,開悟之五十六,,388,388,195,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之五十六；TOC頁碼388與正文（第389頁起之頁眉）核對一致。
+book-1,chapter-57,chapter,62,宇宙文明的毀滅方式（下）,,開悟之五十七,,396,396,199,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之五十七；TOC頁碼396與正文（第397頁起之頁眉）核對一致。
+book-1,chapter-58,chapter,63,做功與降熵,,開悟之五十八,,404,404,203,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之五十八；TOC頁碼404與正文（第405頁起之頁眉）核對一致。
+book-1,chapter-59,chapter,64,生命的最終真諦,,開悟之五十九,,410,410,206,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之五十九；TOC頁碼410與正文（第411頁起之頁眉）核對一致。
+book-1,chapter-60,chapter,65,生命的最終真諦解析,,開悟之六十,,417,417,209,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之六十；TOC頁碼417與正文（第417頁起之頁眉）核對一致。
+book-1,chapter-61,chapter,66,生命的定義,,開悟之六十一,,422,422,212,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之六十一；TOC頁碼422與正文（第423頁起之頁眉）核對一致。
+book-1,chapter-62,chapter,67,道德作為與精神能量,,開悟之六十二,,428,428,215,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之六十二；TOC頁碼428與正文（第429頁起之頁眉）核對一致。
+book-1,chapter-63,chapter,68,決定人生高低起伏、輪迴之因素（上）,,開悟之六十三,,436,436,219,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之六十三；TOC頁碼436與正文（第437頁起之頁眉）核對一致。
+book-1,chapter-64,chapter,69,決定人生高低起伏、輪迴之因素（下）,,開悟之六十四,,443,443,222,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之六十四；TOC頁碼443與正文（第443頁起之頁眉）核對一致。
+book-1,chapter-65,chapter,70,好名字的重要性,,開悟之六十五,,451,451,226,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之六十五；TOC頁碼451與正文（第451頁起之頁眉）核對一致。
+book-1,chapter-66,chapter,71,至聖先師孔子,,開悟之六十六,,460,460,231,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之六十六；TOC頁碼460與正文（第461頁起之頁眉）核對一致。
+book-1,chapter-67,chapter,72,五福與五德,,開悟之六十七,,469,469,235,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之六十七；TOC頁碼469與正文（第469頁起之頁眉）核對一致。
+book-1,chapter-68,chapter,73,佛教、道家與儒家的核心本質,,開悟之六十八,,477,477,239,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之六十八；TOC頁碼477與正文（第477頁起之頁眉）核對一致。
+book-1,chapter-69,chapter,74,如何預知自己與他人的命運,,開悟之六十九,,490,490,246,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之六十九；TOC頁碼490與正文（第491頁起之頁眉）核對一致。
+book-1,chapter-70,chapter,75,中庸與情緒涵養,,開悟之七十,,496,496,249,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之七十；TOC頁碼496與正文（第497頁起之頁眉）核對一致。
+book-1,chapter-71,chapter,76,守護靈出現守護工作的必要條件,,開悟之七十一,,503,503,252,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之七十一；TOC頁碼503與正文（第503頁起之頁眉）核對一致。
+book-1,chapter-72,chapter,77,危害地球最大的根源,,開悟之七十二,,508,508,255,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之七十二；TOC頁碼508與正文（第509頁起之頁眉）核對一致。
+book-1,chapter-73,chapter,78,肉體與靈體的交互作用,,開悟之七十三,,519,519,260,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之七十三；TOC頁碼519與正文（第519頁起之頁眉）核對一致。
+book-1,chapter-74,chapter,79,高我體系介紹,,開悟之七十四,,524,524,263,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之七十四；TOC頁碼524與正文（第525頁起之頁眉）核對一致。
+book-1,chapter-75,chapter,80,周易乾卦元亨利貞,,開悟之七十五,,534,534,268,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之七十五；TOC頁碼534與正文（第535頁起之頁眉）核對一致。
+book-1,chapter-76,chapter,81,周易坤卦元亨利牝馬之貞,,開悟之七十六,,540,540,271,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之七十六；TOC頁碼540與正文（第541頁起之頁眉）核對一致。
+book-1,chapter-77,chapter,82,周易吉吝凶悔,,開悟之七十七,,543,543,272,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之七十七；TOC頁碼543與正文（第543頁起之頁眉）核對一致。
+book-1,chapter-78,chapter,83,揚升日來臨的選擇路徑,,開悟之七十八,,546,546,274,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,TOC作「揚升日來臨時的選擇路徑」，正文頁眉作「揚升日來臨的選擇路徑」；本列採正文形式，差異保留待審（見待審清單）。 章首（546頁直排題欄）經複核為「揚升日來臨的選擇路徑」（無「時」）。
+book-1,chapter-79,chapter,84,如何解決生命中所有的問題（如何完成人生中最重要的生命藍圖）,,開悟之七十九,,561,561,281,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之七十九；TOC頁碼561與正文（第561頁起之頁眉）核對一致。
+book-1,chapter-80,chapter,85,生命輪迴的旅程（人類死後的世界）（上）,,開悟之八十,,571,571,286,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之八十；TOC頁碼571與正文（第571頁起之頁眉）核對一致。
+book-1,chapter-81,chapter,86,生命輪迴的旅程（人類死後的世界）（下）,,開悟之八十一,,584,584,293,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之八十一；TOC頁碼584與正文（第585頁起之頁眉）核對一致。
+book-1,chapter-82,chapter,87,生命之流,,開悟之八十二,,598,598,300,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,開悟之八十二；TOC頁碼598與正文（第599頁起之頁眉）核對一致。
+book-1,testimonial-01,testimonial,88,奉為圭臬,,學員心得,陳勝發,600,600,301,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,學員心得系列；TOC列：奉為圭臬／陳勝發·600。頁眉核對一致（601頁）。
+book-1,testimonial-02,testimonial,89,順著走,,學員心得,陳晉榮,603,603,302,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,學員心得系列；TOC列：順著走／陳晉榮·603。頁眉核對一致（603頁）。
+book-1,testimonial-03,testimonial,90,變的很幸福,,學員心得,溫莉婉,606,606,304,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-opening,not-started,學員心得系列；TOC列：變的很幸福／溫莉婉·606。僅佔一頁（606頁，偶數頁）；開篇直排題欄核對一致：「學員心得學員溫莉婉 | 變的很幸福」。
+book-1,testimonial-04,testimonial,91,正確的愛,,學員心得,陳伯鈞,607,607,304,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,學員心得系列；TOC列：正確的愛／陳伯鈞·607。頁眉核對一致（607頁）。
+book-1,testimonial-05,testimonial,92,愛就是一切的總和,,學員心得,陳佳霈,609,609,305,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,學員心得系列；TOC列：愛就是一切的總和／陳佳霈·609。頁眉核對一致（609頁）。
+book-1,testimonial-06,testimonial,93,撥雲見日,,學員心得,謝穎妮,610,610,306,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-opening,not-started,學員心得系列；TOC列：撥雲見日／謝穎妮·610。僅佔一頁（610頁，偶數頁）；開篇直排題欄核對一致：「學員心得學員謝穎妮 | 撥雲見日」。
+book-1,testimonial-07,testimonial,94,從醉生夢死中起身！,,學員心得,周毓幀,611,611,306,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,學員心得系列；TOC列：從醉生夢死中起身！／周毓幀·611。頁眉核對一致（611頁）。
+book-1,testimonial-08,testimonial,95,生命是一件單純的雕刻作品,,學員心得,康嘉佑,615,615,308,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,toc-verified,body-verified-running-head,not-started,學員心得系列；TOC列：生命是一件單純的雕刻作品／康嘉佑·615。頁眉核對一致（615頁）。
+book-1,plate-001,photo-plate,96,本源的微笑,,,,,,309,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,作者微笑照片頁；標題印於版面（圖片頁，無文字層）。 無印刷頁碼；依拼版幾何此位置對應印刷頁617（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-002,photo-plate,97,阿里山森林中樹精靈和能量圈,,,,,,310,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,彩色照片頁（三張森林照片）。 無印刷頁碼；依拼版幾何此位置對應印刷頁618（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-003,quote-plate,98,人心惟危，道心惟微，惟精惟一，允執厥中。——《書·大禹謨》,,,,,,310,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,經典語錄頁（風景照片背景疊印直排大字）。 無印刷頁碼；依拼版幾何此位置對應印刷頁619（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-004,quote-plate,99,天行健，君子以自強不息；地勢坤，君子以厚德載物。——《易·象辭》,,,,,,311,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,經典語錄頁（山巒雲海照片背景）。 無印刷頁碼；依拼版幾何此位置對應印刷頁620（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-005,quote-plate,100,生命的目的,,,,,,311,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,黑底金字語錄頁。 無印刷頁碼；依拼版幾何此位置對應印刷頁621（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-006,quote-plate,101,生命的最終定數,,,,,,312,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,黑底金字語錄頁。 無印刷頁碼；依拼版幾何此位置對應印刷頁622（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-007,quote-plate,102,生命的最終真諦,,,,,,312,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,黑底金字語錄頁。 無印刷頁碼；依拼版幾何此位置對應印刷頁623（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-008,quote-plate,103,天道詩,,,,,,313,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,黑底金字語錄頁。 無印刷頁碼；依拼版幾何此位置對應印刷頁624（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-009,quote-plate,104,處世賦,,,,,,313,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,黑底金字語錄頁；內文提及「恩師江慶淇」。 無印刷頁碼；依拼版幾何此位置對應印刷頁625（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-010,quote-plate,105,揚升要訣,,,,,,314,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,黑底金字語錄頁；內文提及「恩師江慶淇」。 無印刷頁碼；依拼版幾何此位置對應印刷頁626（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-011,quote-plate,106,禮運大同篇,,,,,,314,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,經典語錄頁。 無印刷頁碼；依拼版幾何此位置對應印刷頁627（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-012,quote-plate,107,中庸,,,,,,315,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,經典語錄頁（《中庸》首章）。 無印刷頁碼；依拼版幾何此位置對應印刷頁628（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-013,quote-plate,108,大學,,,,,,315,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,經典語錄頁（《大學》首章）。 無印刷頁碼；依拼版幾何此位置對應印刷頁629（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-014,diagram-plate,109,太陽系進入高頻率帶示意圖；量子雙縫實驗圖,,,,,,316,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（兩張圖）。 無印刷頁碼；依拼版幾何此位置對應印刷頁630（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-015,diagram-plate,110,輪迴過程示意圖；輪迴轉生曆遷行為和反作用力（業力）圖,,,,,,316,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（兩張圖）。 無印刷頁碼；依拼版幾何此位置對應印刷頁631（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-016,diagram-plate,111,宇宙次元示意圖；宇宙次元構念圖；空間扭曲圖,,,,,,317,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（三張圖；左右半歸屬經分半高解析VLM複核）。 無印刷頁碼；依拼版幾何此位置對應印刷頁632（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-017,diagram-plate,112,靈魂加固示意圖；神性基因演化示意圖,,,,,,317,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（兩張圖；左右半歸屬經分半高解析VLM複核）。 無印刷頁碼；依拼版幾何此位置對應印刷頁633（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-018,diagram-plate,113,神性基因演化示意圖,,,,,,318,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（含說明文字）。 無印刷頁碼；依拼版幾何此位置對應印刷頁634（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-019,photo-plate,114,江慶淇老師的便當與水果,,,,,,318,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,彩色照片頁（便當與水果；附文字說明「江慶淇老師：吃飯了！……」）。 無印刷頁碼；依拼版幾何此位置對應印刷頁635（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-020,diagram-plate,115,時空維度示意圖,,,,,,319,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（3維與4維時間線兩圖）。 無印刷頁碼；依拼版幾何此位置對應印刷頁636（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-021,diagram-plate,116,時空維度（4維空間）,,,,,,319,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖／文字頁（低維度與4維空間說明）；確切標題待人工複核。 無印刷頁碼；依拼版幾何此位置對應印刷頁637（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-022,diagram-plate,117,5維空間,,,,,,320,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（5維空間與「例如」圖解）。 無印刷頁碼；依拼版幾何此位置對應印刷頁638（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-023,diagram-plate,118,6維空間,,,,,,320,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（時間點彎曲關係）。 無印刷頁碼；依拼版幾何此位置對應印刷頁639（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-024,diagram-plate,119,6維時空點；7維空間,,,,,,321,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（兩張圖）。 無印刷頁碼；依拼版幾何此位置對應印刷頁640（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-025,diagram-plate,120,8維空間,,,,,,321,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（轉學點展開無限可能）。 無印刷頁碼；依拼版幾何此位置對應印刷頁641（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-026,diagram-plate,121,9維空間,,,,,,322,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（時空點彎曲連結）。 無印刷頁碼；依拼版幾何此位置對應印刷頁642（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-027,diagram-plate,122,10維空間,,,,,,322,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（10維空間點）。 無印刷頁碼；依拼版幾何此位置對應印刷頁643（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-028,diagram-plate,123,能量樹示意圖,,,,,,323,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（負能量／正能量）。 無印刷頁碼；依拼版幾何此位置對應印刷頁644（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-029,diagram-plate,124,生命輪迴命運曲線圖；宇宙壽命延續圖,,,,,,323,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（兩張圖）。 無印刷頁碼；依拼版幾何此位置對應印刷頁645（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-030,diagram-plate,125,高我體系示意圖,,,,,,324,R,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（1級高我與0級樹狀圖）。 無印刷頁碼；依拼版幾何此位置對應印刷頁646（推定值，僅供定位，不作為頁碼證據）。
+book-1,plate-031,quote-plate,126,為世界祈福,,,,,,324,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,祈福文頁（湖畔照片背景）。 無印刷頁碼；依拼版幾何此位置對應印刷頁647（推定值，僅供定位，不作為頁碼證據）。
+book-1,colophon,colophon,127,版權頁（國家圖書館出版品預行編目資料）,,,,649,649,325,L,印刷全文-要開悟讀這本書就夠了 (2).pdf,zh-TW,not-in-toc,body-verified,not-started,CIP：要開悟讀這本書就夠了／江慶淇著.--初版.--〔新北市〕：江嘉祁，2022.04；ISBN 978-957-43-9795-2（平裝）。印刷頁648為空白頁（同PDF頁右半）。

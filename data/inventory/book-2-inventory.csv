@@ -1,0 +1,169 @@
+﻿book_id,entry_id,entry_kind,order_in_book,original_title,title_qualifier,parent_series,attributed_author,printed_page,printed_page_num,pdf_page,pdf_page_position,source_file,language,toc_status,body_status,translation_status,review_notes
+book-2,toc,toc,1,目錄,,目錄（印刷頁1–22）,,1,1,1,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,body-verified,not-started,目錄佔印刷頁1–22（PDF 1–22，頁腳頁碼一比一對應）；目錄為直排多欄，欄序由右至左，頁碼以中文數字印於各欄欄底。目錄列共214列（含併列），146個不同頁碼定位。
+book-2,title-page,title-page,2,靈性開悟進程奧義手札,,,,23,23,23,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,主體總書名頁（正文起點）；目錄首列即此（23頁）。24為空白頁（僅頁腳頁碼）。
+book-2,preface-01,preface,3,一份真實的路徑,,慶淇悟得手札自序,,25,25,25,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,自序跨頁25–31；目錄列《一份真實的路徑》（慶淇悟得手札自序）。
+book-2,acknowledgments-01,acknowledgment,4,感恩篇,,,,32,32,32,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,感恩篇（謝辭）跨頁32–36。
+book-2,essay-001,essay,5,最大的喜悅最大的希望和最大的感恩,,慶淇悟得手札之一,,37,37,37,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼37（三十七）與正文標題頁（大字標題）核對一致。
+book-2,essay-002,essay,6,我們生活在幻覺中,,慶淇悟得手札之二,,39,39,39,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼39（三十九）與正文標題頁（大字標題）核對一致。
+book-2,essay-003,essay,7,障礙,,慶淇手札拾穗之一,,42,42,42,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼42（四十二）與正文標題頁（大字標題）核對一致。
+book-2,essay-004,essay,8,我,,慶淇手札拾穗之二,,44,44,44,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼44（四十四）與正文標題頁（大字標題）核對一致。
+book-2,essay-005,essay,9,不完美,,慶淇悟得手札之三,,45,45,45,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼45（四十五）與正文標題頁（大字標題）核對一致。
+book-2,essay-006,essay,10,悟了之後,一,慶淇悟得手札之四,,47,47,47,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼47（四十七）與正文標題頁（大字標題）核對一致。〈悟了之後〉系列之部分篇章（系列關係按原文保留，各篇各自成目）。
+book-2,essay-007,essay,11,悟了之後,續上篇二,慶淇悟得手札之五,,52,52,52,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼52（五十二）與正文標題頁（大字標題）核對一致。〈悟了之後〉系列之部分篇章（系列關係按原文保留，各篇各自成目）。
+book-2,essay-008,essay,12,悟了之後,續上篇三,慶淇悟得手札之六,,55,55,55,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼55（五十五）與正文標題頁（大字標題）核對一致。〈悟了之後〉系列之部分篇章（系列關係按原文保留，各篇各自成目）。
+book-2,essay-009,essay,13,悟了之後,完結篇,慶淇悟得手札之七,,61,61,61,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼61（六十一）與正文標題頁（大字標題）核對一致。〈悟了之後〉系列之部分篇章（系列關係按原文保留，各篇各自成目）。
+book-2,essay-010,essay,14,無我是真我,,慶淇悟得手札之八,,68,68,68,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼68（六十八）與正文標題頁（大字標題）核對一致。
+book-2,essay-011,essay,15,國際和平日祝禱文,,慶淇悟得手札之九,,70,70,70,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼70（七十）與正文標題頁（大字標題）核對一致。
+book-2,essay-012,essay,16,真相（一）綠洲和彩虹的外面是什麼,,慶淇悟得手札之十,,71,71,71,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼71（七十一）與正文標題頁（大字標題）核對一致。〈真相〉三篇（一）（二）（三），系列關係按原文保留。
+book-2,essay-013,essay,17,愛情的真相,,慶淇悟得手札之十一,,76,76,76,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼76（七十六）與正文標題頁（大字標題）核對一致。
+book-2,essay-014,essay,18,覺醒之路荊棘佈，驀然真我合一悟,上篇,慶淇悟得手札之十二,,80,80,80,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼80（八十）與正文標題頁（大字標題）核對一致。〈覺醒之路荊棘佈，驀然真我合一悟〉分（上篇）（下篇·完結篇）刊出，系列關係按原文保留。
+book-2,essay-015,essay,19,居福地,一,慶淇悟得手札之十三,,89,89,89,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼89（八十九）與正文標題頁（大字標題）核對一致。〈居福地〉系列之分篇，系列關係按原文保留。
+book-2,essay-016,essay,20,覺醒之路荊棘佈，驀然真我合一悟,下篇、完結篇,慶淇悟得手札之十四,,91,91,91,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼91（九十一）與正文標題頁（大字標題）核對一致。〈覺醒之路荊棘佈，驀然真我合一悟〉分（上篇）（下篇·完結篇）刊出，系列關係按原文保留。
+book-2,essay-017,essay,21,真相（二）無我,,慶淇悟得手札之十五,,100,100,100,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼100（百）與正文標題頁（大字標題）核對一致。〈真相〉三篇（一）（二）（三），系列關係按原文保留。
+book-2,essay-018,essay,22,撬開魔鬼的封印,,慶淇悟得手札之十六,,105,105,105,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼105（百五）與正文標題頁（大字標題）核對一致。
+book-2,essay-019,essay,23,生活裡覺醒的第一步,,慶淇悟得手札之十七,,110,110,110,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼110（百十）與正文標題頁（大字標題）核對一致。「生活裡覺醒」三步系列之一，系列關係按原文保留。
+book-2,essay-020,essay,24,真理之流,,慶淇悟得手札之十八,,113,113,113,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼113（百十三）與正文標題頁（大字標題）核對一致。
+book-2,essay-021,essay,25,愛和美,,慶淇悟得手札之十九,,115,115,115,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼115（百十五）與正文標題頁（大字標題）核對一致。
+book-2,essay-022,essay,26,生活裡覺醒的第二步,,慶淇悟得手札之二十,,117,117,117,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼117（百十七）與正文標題頁（大字標題）核對一致。「生活裡覺醒」三步系列之一，系列關係按原文保留。
+book-2,essay-023,essay,27,真相（三）「本源」的輪迴,,慶淇悟得手札之二十一,,121,121,121,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼121（百二十一）與正文標題頁（大字標題）核對一致。〈真相〉三篇（一）（二）（三），系列關係按原文保留。
+book-2,essay-024,essay,28,居福地,二,慶淇悟得手札之二十二,,124,124,124,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼124（百二十四）與正文標題頁（大字標題）核對一致。〈居福地〉系列之分篇，系列關係按原文保留。
+book-2,essay-025,essay,29,看見造物主的約定密碼,,慶淇悟得手札之二十三,,126,126,126,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼126（百二十六）與正文標題頁（大字標題）核對一致。
+book-2,essay-026,essay,30,絕望與覺醒,,慶淇悟得手札之二十四,,129,129,129,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼129（百二十九）與正文標題頁（大字標題）核對一致。
+book-2,essay-027,essay,31,生命因共享的愛而延續著,,慶淇悟得手札之二十五,,130,130,130,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼130（百三十）與正文標題頁（大字標題）核對一致。
+book-2,essay-028,essay,32,居福地當然培養出最友善的生命,,慶淇悟得手札之二十六,,132,132,132,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼132（百三十二）與正文標題頁（大字標題）核對一致。〈居福地〉系列之分篇，系列關係按原文保留。
+book-2,essay-029,essay,33,生活裡覺醒的第三步,,慶淇悟得手札之二十七,,133,133,133,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼133（百三十三）與正文標題頁（大字標題）核對一致。「生活裡覺醒」三步系列之一，系列關係按原文保留。
+book-2,essay-030,essay,34,光明永遠在等待,,慶淇悟得手札之二十八,,138,138,138,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼138（百三十八）與正文標題頁（大字標題）核對一致。
+book-2,essay-031,essay,35,愛的真相無盡的愛,,慶淇悟得手札之二十九,,141,141,141,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼141（百四十一）與正文標題頁（大字標題）核對一致。
+book-2,essay-032,essay,36,當下、當下、就是當下,,慶淇悟得手札之三十,,147,147,147,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼147（百四十七）與正文標題頁（大字標題）核對一致。
+book-2,essay-033,essay,37,眼前所困，即其所解,,慶淇悟得手札之三十一,,150,150,150,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼150（百五十）與正文標題頁（大字標題）核對一致。
+book-2,essay-034,essay,38,開悟者的超級意識和信念,,慶淇悟得手札之三十二,,154,154,154,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼154（百五十四）與正文標題頁（大字標題）核對一致。
+book-2,essay-035,essay,39,自我實現就在你眼前,,慶淇悟得手札之三十三,,155,155,155,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼155（百五十五）與正文標題頁（大字標題）核對一致。
+book-2,essay-036,essay,40,生命,,慶淇悟得手札之三十四,,158,158,158,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼158（百五十八）與正文標題頁（大字標題）核對一致。
+book-2,essay-037,essay,41,幸福感,,慶淇悟得手札之三十五,,159,159,159,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼159（百五十九）與正文標題頁（大字標題）核對一致。
+book-2,essay-038,essay,42,生命最本然的愛來源於家庭幸福感,,慶淇悟得手札之三十六,,160,160,160,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼160（百六十）與正文標題頁（大字標題）核對一致。
+book-2,essay-039,essay,43,職場的迷茫,,慶淇悟得手札之三十七,,161,161,161,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼161（百六十一）與正文標題頁（大字標題）核對一致。
+book-2,essay-040,essay,44,開悟,,慶淇悟得手札之三十八,,162,162,162,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼162（百六十二）與正文標題頁（大字標題）核對一致。
+book-2,essay-041,essay,45,宗教與末法,,慶淇悟得手札之三十九,,164,164,164,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼164（百六十四）與正文標題頁（大字標題）核對一致。
+book-2,essay-042,essay,46,挫折,,慶淇悟得手札之四十,,166,166,166,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼166（百六十六）與正文標題頁（大字標題）核對一致。
+book-2,essay-043,essay,47,傷病箴言,,慶淇悟得手札之四十一,,168,168,168,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼168（百六十八）與正文標題頁（大字標題）核對一致。
+book-2,essay-044,essay,48,植物的意識,,慶淇悟得手札之四十二,,170,170,170,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼170（百七十）與正文標題頁（大字標題）核對一致。
+book-2,essay-045,essay,49,對植物或萬物的慰禱詞,,慶淇悟得手札之四十三,,171,171,171,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼171（百七十一）與正文標題頁（大字標題）核對一致。
+book-2,essay-046,essay,50,每個人都可以是時空旅人,,慶淇悟得手札之四十四,,172,172,172,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼172（百七十二）與正文標題頁（大字標題）核對一致。
+book-2,essay-047,essay,51,生命裡沒有任何的絲毫是巧合,,慶淇悟得手札之四十五,,173,173,173,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼173（百七十三）與正文標題頁（大字標題）核對一致。
+book-2,essay-048,essay,52,禱告範例,,慶淇悟得手札之四十六,,174,174,174,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼174（百七十四）與正文標題頁（大字標題）核對一致。
+book-2,essay-049,essay,53,寂寞所帶來的機會,,慶淇悟得手札之四十七,,175,175,175,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼175（百七十五）與正文標題頁（大字標題）核對一致。
+book-2,essay-050,essay,54,度量衡,,慶淇悟得手札之四十八,,176,176,176,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼176（百七十六）與正文標題頁（大字標題）核對一致。
+book-2,essay-051,essay,55,時間是永恆的畫卷,,慶淇悟得手札之四十九,,177,177,177,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼177（百七十七）與正文標題頁（大字標題）核對一致。
+book-2,essay-052,essay,56,共振,,慶淇悟得手札之五十,,178,178,178,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼178（百七十八）與正文標題頁（大字標題）核對一致。
+book-2,essay-053,essay,57,讓孩子去實現他的未來,,慶淇悟得手札之五十一,,179,179,179,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼179（百七十九）與正文標題頁（大字標題）核對一致。
+book-2,essay-054,essay,58,帶著內在胸懷的愛，給家人祝福,,慶淇悟得手札之五十二,,180,180,180,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼180（百八十）與正文標題頁（大字標題）核對一致。
+book-2,essay-055,essay,59,印證,,慶淇悟得手札之五十三,,181,181,181,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼181（百八十一）與正文標題頁（大字標題）核對一致。
+book-2,essay-056,essay,60,社群是生命得以延續的憑依,,慶淇悟得手札之五十四,,182,182,182,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼182（百八十二）與正文標題頁（大字標題）核對一致。
+book-2,essay-057,essay,61,淬煉,,慶淇悟得手札之五十五,,183,183,183,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼183（百八十三）與正文標題頁（大字標題）核對一致。
+book-2,essay-058,essay,62,無盡的愛,,慶淇悟得手札之五十六,,184,184,184,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼184（百八十四）與正文標題頁（大字標題）核對一致。
+book-2,essay-059,essay,63,對婦女的祝禱,,慶淇悟得手札之五十七,,186,186,186,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼186（百八十六）與正文標題頁（大字標題）核對一致。
+book-2,essay-060,essay,64,精靈存在何處,,慶淇悟得手札之五十八,,187,187,187,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼187（百八十七）與正文標題頁（大字標題）核對一致。
+book-2,essay-061,essay,65,夫妻關係和婚姻,,慶淇悟得手札之五十九,,188,188,188,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼188（百八十八）與正文標題頁（大字標題）核對一致。
+book-2,essay-062,essay,66,躲藏＆留傳,,慶淇悟得手札之六十,,189,189,189,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼189（百八十九）與正文標題頁（大字標題）核對一致。
+book-2,essay-063,essay,67,來自《薄伽梵歌》的教導,,慶淇悟得手札之六十一,,190,190,190,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼190（百九十）與正文標題頁（大字標題）核對一致。
+book-2,essay-064,essay,68,銀河中心,,慶淇悟得手札之六十二,,193,193,193,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼193（百九十三）與正文標題頁（大字標題）核對一致。
+book-2,essay-065,essay,69,揚升＆痛苦,,慶淇悟得手札之六十三,,194,194,194,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼194（百九十四）與正文標題頁（大字標題）核對一致。
+book-2,essay-066,essay,70,念父親春松先生,,慶淇悟得手札之六十四,,195,195,195,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼195（百九十五）與正文標題頁（大字標題）核對一致。
+book-2,essay-067,essay,71,父愛,,慶淇悟得手札之六十五,,196,196,196,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼196（百九十六）與正文標題頁（大字標題）核對一致。
+book-2,essay-068,essay,72,人生,,慶淇悟得手札之六十六,,197,197,197,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼197（百九十七）與正文標題頁（大字標題）核對一致。
+book-2,essay-069,essay,73,再一次強調大地之母的現況,,慶淇悟得手札之六十七,,198,198,198,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼198（百九十八）與正文標題頁（大字標題）核對一致。
+book-2,essay-070,essay,74,鏡子裡的全家福,,慶淇悟得手札之六十八,,199,199,199,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼199（百九十九）與正文標題頁（大字標題）核對一致。
+book-2,essay-071,essay,75,生命的展現,,慶淇悟得手札之六十九,,200,200,200,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼200（二百）與正文標題頁（大字標題）核對一致。
+book-2,essay-072,essay,76,宗教信仰的覺醒,,慶淇悟得手札之七十,,201,201,201,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼201（二百一）與正文標題頁（大字標題）核對一致。
+book-2,essay-073,essay,77,老師的叮嚀,,慶淇悟得手札之七十一,,203,203,203,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼203（二百三）與正文標題頁（大字標題）核對一致。
+book-2,essay-074,essay,78,藍鳥人,,慶淇悟得手札之七十二,,204,204,204,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼204（二百四）與正文標題頁（大字標題）核對一致。
+book-2,essay-075,essay,79,南島語系之台灣,,慶淇悟得手札之七十三,,205,205,205,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼205（二百五）與正文標題頁（大字標題）核對一致。
+book-2,essay-076,essay,80,靈性成長教育,,慶淇悟得手札之七十四,,206,206,206,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼206（二百六）與正文標題頁（大字標題）核對一致。
+book-2,essay-077,essay,81,業緣喜相逢︱︱美麗異國婚姻,,慶淇悟得手札之七十五,,207,207,207,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼207（二百七）與正文標題頁（大字標題）核對一致。
+book-2,essay-078,essay,82,地球正遭受的自然超級災難,次序為概率大小,慶淇悟得手札之七十六,,208,208,208,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼208（二百八）與正文標題頁（大字標題）核對一致。
+book-2,essay-079,essay,83,放飛那只天使箭,,慶淇悟得手札之七十七,,210,210,210,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼210（二百十）與正文標題頁（大字標題）核對一致。
+book-2,essay-080,essay,84,振動頻率,,慶淇悟得手札之七十八,,211,211,211,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼211（二百十一）與正文標題頁（大字標題）核對一致。
+book-2,essay-081,essay,85,進逼＆逼近,,慶淇悟得手札之七十九,,212,212,212,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼212（二百十二）與正文標題頁（大字標題）核對一致。
+book-2,essay-082,essay,86,集體祈禱,,慶淇悟得手札之八十,,213,213,213,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼213（二百十三）與正文標題頁（大字標題）核對一致。
+book-2,essay-083,essay,87,業緣＆藍圖,,慶淇悟得手札之八十一,,214,214,214,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼214（二百十四）與正文標題頁（大字標題）核對一致。
+book-2,essay-084,essay,88,認識負面外星種族,,慶淇悟得手札之八十二,,215,215,215,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼215（二百十五）與正文標題頁（大字標題）核對一致。
+book-2,essay-085,essay,89,認識家園社區、鄰居＆心靈合一體驗,,慶淇悟得手札之八十三,,216,216,216,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼216（二百十六）與正文標題頁（大字標題）核對一致。
+book-2,essay-086,essay,90,放大檢視所有的情緒能量,,慶淇悟得手札之八十四,,218,218,218,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼218（二百十八）與正文標題頁（大字標題）核對一致。
+book-2,essay-087,essay,91,國際和平日,,慶淇悟得手札之八十五,,220,220,220,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼220（二百二十）與正文標題頁（大字標題）核對一致。
+book-2,essay-088,essay,92,臨場感受＆模擬預習,,慶淇悟得手札之八十六,,221,221,221,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼221（二百二十一）與正文標題頁（大字標題）核對一致。
+book-2,essay-089,essay,93,靈性世界,,慶淇悟得手札之八十七,,222,222,222,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼222（二百二十二）與正文標題頁（大字標題）核對一致。
+book-2,essay-090,essay,94,生命＆進化,,慶淇悟得手札之八十八,,223,223,223,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼223（二百二十三）與正文標題頁（大字標題）核對一致。
+book-2,essay-091,essay,95,大限,,慶淇悟得手札之八十九,,224,224,224,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼224（二百二十四）與正文標題頁（大字標題）核對一致。
+book-2,essay-092,essay,96,萬物本質＆量子信息,,慶淇悟得手札之九十,,225,225,225,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼225（二百二十五）與正文標題頁（大字標題）核對一致。
+book-2,essay-093,essay,97,afterthat＆all,在那之後＆終究,慶淇悟得手札之九十一,,226,226,226,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼226（二百二十六）與正文標題頁（大字標題）核對一致。
+book-2,essay-094,essay,98,千里之行始於足下,,慶淇悟得手札之九十二,,228,228,228,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼228（二百二十八）與正文標題頁（大字標題）核對一致。
+book-2,essay-095,essay,99,勉勵,,慶淇悟得手札之九十三,,229,229,229,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼229（二百二十九）與正文標題頁（大字標題）核對一致。
+book-2,essay-096,essay,100,生命的目的,,慶淇悟得手札之九十四,,230,230,230,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼230（二百三十）與正文標題頁（大字標題）核對一致。
+book-2,essay-097,essay,101,複習生命的最終定數,,慶淇悟得手札之九十五,,231,231,231,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼231（二百三十一）與正文標題頁（大字標題）核對一致。
+book-2,essay-098,essay,102,生命的最終真諦,,慶淇悟得手札之九十六,,232,232,232,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼232（二百三十二）與正文標題頁（大字標題）核對一致。
+book-2,essay-099,essay,103,選擇,,慶淇悟得手札之九十七,,234,234,234,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼234（二百三十四）與正文標題頁（大字標題）核對一致。
+book-2,essay-100,essay,104,選擇＆選舉,,慶淇悟得手札之九十八,,235,235,235,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼235（二百三十五）與正文標題頁（大字標題）核對一致。
+book-2,essay-101,essay,105,給所有學子最關鍵的生命建言,,慶淇悟得手札之九十九,,236,236,236,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼236（二百三十六）與正文標題頁（大字標題）核對一致。
+book-2,essay-102,essay,106,有感,,慶淇悟得手札之一百,,237,237,237,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼237（二百三十七）與正文標題頁（大字標題）核對一致。
+book-2,essay-103,essay,107,宇宙信息,,慶淇悟得手札之一百零一,,238,238,238,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼238（二百三十八）與正文標題頁（大字標題）核對一致。
+book-2,essay-104,essay,108,量子糾纏,,慶淇悟得手札之一百零二,,239,239,239,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼239（二百三十九）與正文標題頁（大字標題）核對一致。
+book-2,essay-105,essay,109,你準備好了嗎？,,慶淇悟得手札之一百零三,,240,240,240,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼240（二百四十）與正文標題頁（大字標題）核對一致。
+book-2,essay-106,essay,110,孩子,,慶淇悟得手札之一百零四,,242,242,242,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼242（二百四十二）與正文標題頁（大字標題）核對一致。
+book-2,essay-107,essay,111,眼淚的表情,,慶淇悟得手札之一百零五,,243,243,243,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼243（二百四十三）與正文標題頁（大字標題）核對一致。
+book-2,essay-108,essay,112,神功與鬼功,,慶淇悟得手札之一百零六,,244,244,244,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼244（二百四十四）與正文標題頁（大字標題）核對一致。
+book-2,essay-109,essay,113,聖人誕辰,,慶淇悟得手札之一百零七,,245,245,245,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼245（二百四十五）與正文標題頁（大字標題）核對一致。
+book-2,essay-110,essay,114,爬蟲人控制的醫藥行業︱︱欺瞞的殘酷,,慶淇悟得手札之一百零八,,246,246,246,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼246（二百四十六）與正文標題頁（大字標題）核對一致。
+book-2,essay-111,essay,115,動脈硬化的元兇,,慶淇悟得手札之一百零九,,247,247,247,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼247（二百四十七）與正文標題頁（大字標題）核對一致。
+book-2,essay-112,essay,116,如何健康飲食,,慶淇悟得手札之一百一十,,248,248,248,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼248（二百四十八）與正文標題頁（大字標題）核對一致。
+book-2,essay-113,essay,117,老師的話,,慶淇悟得手札之一百一十一,,249,249,249,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼249（二百四十九）與正文標題頁（大字標題）核對一致。
+book-2,essay-114,essay,118,提醒,,慶淇悟得手札之一百一十二,,250,250,250,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼250（二百五十）與正文標題頁（大字標題）核對一致。
+book-2,essay-115,essay,119,即刻覺醒,,慶淇悟得手札之一百一十三,,251,251,251,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼251（二百五十一）與正文標題頁（大字標題）核對一致。
+book-2,essay-116,essay,120,磨的來臨,,慶淇悟得手札之一百一十四,,252,252,252,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼252（二百五十二）與正文標題頁（大字標題）核對一致。
+book-2,essay-117,essay,121,祈福＆祝禱,,慶淇悟得手札之一百一十五,,254,254,254,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼254（二百五十四）與正文標題頁（大字標題）核對一致。
+book-2,essay-118,essay,122,悟道,,慶淇悟得手札之一百一十六,,255,255,255,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼255（二百五十五）與正文標題頁（大字標題）核對一致。
+book-2,essay-119,essay,123,角色,,慶淇悟得手札之一百一十七,,256,256,256,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼256（二百五十六）與正文標題頁（大字標題）核對一致。
+book-2,essay-120,essay,124,堅守正道,,慶淇悟得手札之一百一十八,,257,257,257,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼257（二百五十七）與正文標題頁（大字標題）核對一致。
+book-2,essay-121,essay,125,晴雨,,慶淇悟得手札之一百一十九,,258,258,258,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼258（二百五十八）與正文標題頁（大字標題）核對一致。
+book-2,essay-122,essay,126,氣行,,慶淇悟得手札之一百二十,,259,259,259,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼259（二百五十九）與正文標題頁（大字標題）核對一致。
+book-2,essay-123,essay,127,道就在生活裡,,慶淇悟得手札之一百二十一,,260,260,260,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼260（二百六十）與正文標題頁（大字標題）核對一致。
+book-2,essay-124,essay,128,堅持天理,,慶淇悟得手札之一百二十二,,261,261,261,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼261（二百六十一）與正文標題頁（大字標題）核對一致。
+book-2,essay-125,essay,129,那件事,,慶淇悟得手札之一百二十三,,262,262,262,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼262（二百六十二）與正文標題頁（大字標題）核對一致。
+book-2,essay-126,essay,130,父親節,,慶淇悟得手札之一百二十四,,263,263,263,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼263（二百六十三）與正文標題頁（大字標題）核對一致。
+book-2,essay-127,essay,131,盡心盡力地做好本然的角色,,慶淇悟得手札之一百二十五,,264,264,264,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼264（二百六十四）與正文標題頁（大字標題）核對一致。
+book-2,essay-128,essay,132,揚升大業已然啟動,,慶淇悟得手札之一百二十六,,265,265,265,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼265（二百六十五）與正文標題頁（大字標題）核對一致。
+book-2,essay-129,essay,133,祈求,,慶淇悟得手札之一百二十七,,267,267,267,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼267（二百六十七）與正文標題頁（大字標題）核對一致。
+book-2,essay-130,essay,134,前夕,,慶淇悟得手札之一百二十八,江慶淇,268,268,268,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼268（二百六十八）與正文標題頁（大字標題）核對一致。標題欄附作者署名「江慶淇」（書名後直書）。
+book-2,essay-131,essay,135,高靈推薦靈性成長好書,,慶淇悟得手札之一百二十九,,269,269,269,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼269（二百六十九）與正文標題頁（大字標題）核對一致。
+book-2,essay-132,essay,136,高靈信息,,慶淇悟得手札之一百三十,,271,271,271,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼271（二百七十一）與正文標題頁（大字標題）核對一致。
+book-2,essay-133,essay,137,實修實證中的「不宜言說」,,慶淇悟得手札之一百三十一,,272,272,272,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼272（二百七十二）與正文標題頁（大字標題）核對一致。
+book-2,essay-134,essay,138,眼前所遇，即其所需,,慶淇悟得手札之一百三十二,,273,273,273,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼273（二百七十三）與正文標題頁（大字標題）核對一致。
+book-2,essay-135,essay,139,感謝＆祝福,,慶淇悟得手札之一百三十三,,274,274,274,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼274（二百七十四）與正文標題頁（大字標題）核對一致。
+book-2,essay-136,essay,140,緬懷春松,,慶淇悟得手札之一百三十四,,275,275,275,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼275（二百七十五）與正文標題頁（大字標題）核對一致。
+book-2,essay-137,essay,141,疫苗真相,,慶淇悟得手札之一百三十五,,276,276,276,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼276（二百七十六）與正文標題頁（大字標題）核對一致。
+book-2,essay-138,essay,142,崩解、選擇＆墊背,,慶淇悟得手札之一百三十六,,278,278,278,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼278（二百七十八）與正文標題頁（大字標題）核對一致。
+book-2,essay-139,essay,143,父親節有感,,慶淇悟得手札之一百三十七,,280,280,280,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,目錄頁碼280（二百八十）與正文標題頁（大字標題）核對一致。
+book-2,analysis-01,analysis,144,悟得手札解析,,,江慶淇老師,283,283,283,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,版面印兩欄大字「江慶淇老師」＋「悟得手札解析」，目錄亦分兩列（均指283頁）；本列採單一內容單元記錄（標題「悟得手札解析」，欄列屬性記於attributed_author），複合標題「江慶淇老師悟得手札解析」之訂定留待編輯決策（見待審清單）。正文285–370（284為空白頁，僅頁腳頁碼）。
+book-2,blessing-01,blessing,145,給學員們的祝福,,,江慶淇老師,371,371,371,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,版面印「江慶淇老師」＋「給學員們的祝福」兩欄，目錄兩列均指371頁；記錄方式同上，複合標題「江慶淇老師給學員們的祝福」之訂定留待編輯決策。正文373–416（372為空白頁，僅頁腳頁碼）。
+book-2,interview-01,interview,146,江慶淇老師專訪,,,,417,417,417,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,版面印三欄大字「不再神秘的靈性開悟」「靈性開悟奧義手札」「江慶淇老師專訪」，目錄三列均指417頁；內文419–448為廣播專訪逐字稿（亞菲夢想花園節目，主持人亞菲）。本列以「江慶淇老師專訪」為內容單元標題，其餘兩欄為題欄文字；「靈性開悟奧義手札」與書中書全名「靈性開悟進程奧義手札」（少「進程」二字）之差異保留原文並待審。418為空白頁（僅頁腳頁碼）。
+book-2,testimony-01,testimony-story,147,心開意解學員江嘉祁,,,江嘉祁,449,449,449,,內文-靈性覺醒 (2).pdf,zh-TW,toc-verified,body-verified-heading,not-started,版面印單欄「心開意解學員江嘉祁」（9字）；推測可讀作「心開意解」＋「學員江嘉祁」，訂定留待編輯決策；正文451–457（450為空白頁，僅頁腳頁碼）。
+book-2,plate-001,rights-statement,148,本書內容屬於全體生命，以增進生命福祉之目的，任何形式之利用與散布，無須另行通知即可實行,,,,,,458,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,授權聲明頁；印刷文字，另有两處手寫簽名（辨識為「江慶淇」與「江嘉祁」，高解析度VLM複核，無日期）。 無印刷頁碼（頁面無文字層）。
+book-2,plate-002,quote-plate,149,人心惟危，道心惟微，惟精惟一，允執厥中。——《書·大禹謨》,,,,,,459,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,經典語錄頁（風景照片背景疊印直排大字）。 無印刷頁碼（頁面無文字層）。
+book-2,plate-003,quote-plate,150,天行健，君子以自強不息；地勢坤，君子以厚德載物。——《易·象辭》,,,,,,460,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,經典語錄頁（風景照片背景）。 無印刷頁碼（頁面無文字層）。
+book-2,plate-004,quote-plate,151,生命的目的,,,,,,461,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,黑底金字語錄頁；正文長句為書中語錄。 無印刷頁碼（頁面無文字層）。
+book-2,plate-005,quote-plate,152,生命的最終定數,,,,,,462,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,黑底金字語錄頁。 無印刷頁碼（頁面無文字層）。
+book-2,plate-006,quote-plate,153,生命的最終真諦,,,,,,463,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,黑底金字語錄頁。 無印刷頁碼（頁面無文字層）。
+book-2,plate-007,quote-plate,154,天道詩,,,,,,464,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,黑底金字語錄頁。 無印刷頁碼（頁面無文字層）。
+book-2,plate-008,quote-plate,155,處世賦,,,,,,465,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,黑底金字語錄頁；內文提及「恩師江慶淇」。 無印刷頁碼（頁面無文字層）。
+book-2,plate-009,quote-plate,156,揚升要訣,,,,,,466,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,黑底金字語錄頁；內文提及「恩師江慶淇」。 無印刷頁碼（頁面無文字層）。
+book-2,plate-010,quote-plate,157,禮運大同篇,,,,,,467,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,經典語錄頁（《禮運》大同章）。 無印刷頁碼（頁面無文字層）。
+book-2,plate-011,quote-plate,158,中庸,,,,,,468,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,經典語錄頁（《中庸》首章）。 無印刷頁碼（頁面無文字層）。
+book-2,plate-012,quote-plate,159,大學,,,,,,469,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,經典語錄頁（《大學》首章）。 無印刷頁碼（頁面無文字層）。
+book-2,plate-013,photo-plate,160,放下面具幻覺現出真我（攝影／江慶淇）,,,,,,470,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,彩色照片頁；圖說含攝影者署名。 無印刷頁碼（頁面無文字層）。
+book-2,plate-014,photo-plate,161,,,,,,,471,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,彩色人物照片頁（仰拍樹冠與陽光）；無文字、無標題，待人工複核。 無印刷頁碼（頁面無文字層）。
+book-2,plate-015,photo-plate,162,滿心接受生活工作（攝影／江慶淇）,,,,,,472,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,彩色照片頁；圖說含攝影者署名。 無印刷頁碼（頁面無文字層）。
+book-2,plate-016,diagram-plate,163,輪迴過程示意圖；輪迴轉生曆遷行為和反作用力（業力）圖,,,,,,473,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（兩張圖）。 無印刷頁碼（頁面無文字層）。
+book-2,plate-017,diagram-plate,164,神性基因演化示意圖,,,,,,474,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（含長段說明文字）。 無印刷頁碼（頁面無文字層）。
+book-2,plate-018,diagram-plate,165,能量樹示意圖,,,,,,475,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（左負能量、右正能量）。 無印刷頁碼（頁面無文字層）。
+book-2,plate-019,diagram-plate,166,生命輪迴命運曲線圖；宇宙壽命延續圖,,,,,,476,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,示意圖頁（兩張圖）。 無印刷頁碼（頁面無文字層）。
+book-2,plate-020,quote-plate,167,為世界祈福,,,,,,477,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,image-only-vlm-transcribed,not-started,祈福文頁（全文以印刷呈現）。 無印刷頁碼（頁面無文字層）。
+book-2,colophon,colophon,168,版權頁（國家圖書館出版品預行編目資料）,,,,478,478,478,,內文-靈性覺醒 (2).pdf,zh-TW,not-in-toc,body-verified,not-started,CIP：靈性覺醒／江慶淇著.--初版.--新北市：江嘉祁，2022.3；ISBN 978-957-43-9327-5（平裝）；定價新臺幣500元；印刷：吉時印 PODesign。
