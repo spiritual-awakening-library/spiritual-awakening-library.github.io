@@ -1,0 +1,36 @@
+{
+  "name": "spiritual-awakening-library",
+  "version": "1.0.0-phase1",
+  "private": true,
+  "description": "Bilingual digital library preserving the complete works of Jiang Qingqi — Next.js App Router static export for GitHub Pages.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "verify:foundation": "python3 scripts/verify_foundation.py",
+    "verify:inventory": "python3 scripts/validate_inventory.py",
+    "verify:content": "python3 scripts/validate_content.py",
+    "verify:static": "python3 scripts/validate_static.py",
+    "verify:all": "npm run typecheck && npm run lint && npm run verify:foundation && npm run verify:inventory && npm run verify:content && npm run build && npm run verify:static"
+  },
+  "dependencies": {
+    "next": "16.4.4",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.1.18",
+    "@types/node": "25.0.9",
+    "@types/react": "19.2.8",
+    "@types/react-dom": "19.2.3",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.4.4",
+    "tailwindcss": "4.1.18",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  }
+}

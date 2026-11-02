@@ -1,0 +1,34 @@
+{
+  "schema": "sal-phase1-published/1.0",
+  "note": "Publication registry for Phase 1. Only entries listed here get reading routes, and only for the locales listed here. Directory pages are generated for both books in both locales from the verified Phase 0.2 inventories.",
+  "entries": [
+    {
+      "book_id": "book-1",
+      "entry_id": "chapter-01",
+      "locales": {
+        "zh-TW": {
+          "status": "source-verified-prototype",
+          "status_note": "Text extracted from the authoritative source PDF by coordinate-aware column reconstruction and cross-checked against page images (see docs/verification/2026-11-02-phase1-content-status.md).",
+          "content": "content/book-1/zh-TW/chapter-01.json"
+        },
+        "en": {
+          "status": "draft-machine-assisted",
+          "review": "needs-human-review",
+          "status_note": "Draft English translation prepared with machine assistance; NOT reviewed or approved by a human translator. The Traditional Chinese original is authoritative.",
+          "content": "content/book-1/en/chapter-01.json"
+        }
+      }
+    },
+    {
+      "book_id": "book-2",
+      "entry_id": "preface-01",
+      "locales": {
+        "zh-TW": {
+          "status": "source-verified-prototype",
+          "status_note": "Text extracted from the authoritative source PDF by coordinate-aware column reconstruction and cross-checked against page images (see docs/verification/2026-11-02-phase1-content-status.md).",
+          "content": "content/book-2/zh-TW/preface-01.json"
+        }
+      }
+    }
+  ]
+}

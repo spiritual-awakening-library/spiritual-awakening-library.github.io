@@ -1,0 +1,53 @@
+{
+  "schema": "sal-phase1-books/1.0",
+  "note": "Book-level display metadata. Only verified facts from the Phase 0.2 inventories and source PDFs are recorded; English titles are working translations marked as drafts.",
+  "author": {
+    "zh-TW": "江慶淇",
+    "en": "Jiang Qingqi"
+  },
+  "books": [
+    {
+      "id": "book-1",
+      "title": {
+        "zh-TW": "要開悟，讀這本書就夠了",
+        "en": "To Become Enlightened, This Book Is Enough"
+      },
+      "title_en_status": "draft-working-translation",
+      "series_note": {
+        "zh-TW": "全書 82 個編號章節（開悟之一至開悟之八十二）",
+        "en": "82 numbered chapters (Enlightenment No. 1 to No. 82)"
+      },
+      "printed_page_range": "000-649",
+      "pdf_pages": 325,
+      "entry_count": 127,
+      "cover": "/covers/book-1-cover.png",
+      "cover_alt": {
+        "zh-TW": "《要開悟，讀這本書就夠了》書封（展開）：黃昏水塘風景照，直排書名「要開悟，讀這本書就夠了」，作者署名「江慶淇 著」。",
+        "en": "Cover spread of the book: a dusk pond landscape photograph with the vertically set title and the author attribution “Jiang Qingqi.”"
+      },
+      "first_published_entry": "chapter-01"
+    },
+    {
+      "id": "book-2",
+      "title": {
+        "zh-TW": "靈性覺醒",
+        "en": "Spiritual Awakening"
+      },
+      "title_en_status": "draft-working-translation",
+      "title_page_title": "靈性開悟進程奧義手札",
+      "series_note": {
+        "zh-TW": "獨立標題散文手札（含〈悟了之後〉系列）、解析、專訪、祝福與見證",
+        "en": "Independently titled essays (including the “After Awakening” series), analyses, an interview, blessings, and testimonies"
+      },
+      "printed_page_range": "1-478",
+      "pdf_pages": 478,
+      "entry_count": 168,
+      "cover": "/covers/book-2-cover.png",
+      "cover_alt": {
+        "zh-TW": "《靈性覺醒》書封（展開）：左側燈泡照片，其中一盞亮起；右側黑白太極圖與八卦符號，題名「靈性覺醒」，作者署名「江慶淇老師 著」。",
+        "en": "Cover spread of the book: light bulbs on the left with one glowing; a black-and-white taiji diagram surrounded by bagua symbols on the right, with the title and the author attribution."
+      },
+      "first_published_entry": "preface-01"
+    }
+  ]
+}

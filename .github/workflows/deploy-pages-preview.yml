@@ -1,0 +1,131 @@
+# =============================================================================
+# Deployment preparation & verification workflow — STRICTLY NON-DEPLOYING
+# =============================================================================
+#
+# Status: NOT AUTHORIZED YET — and by design this workflow can NEVER deploy.
+#
+# - Trigger: `workflow_dispatch` (manual) only. It will never run on
+#   pushes, PRs, or schedules.
+# - Branch restriction: the guard job rejects any run that is not on the
+#   approved `main` branch.
+# - Permissions: `contents: read` only. There is NO `pages: write`, NO
+#   `id-token: write`, and NO deployment `environment`. Even if triggered
+#   by mistake, this workflow holds no permission capable of altering the
+#   published site or the repository's Pages settings.
+# - What it does: re-runs the full verification suite (Phase 0.1, 0.2,
+#   Phase 1 content checks, typecheck, lint) and the full static export,
+#   then validates the exported routes/metadata/static HTML. The `out/`
+#   directory remains in the runner workspace for inspection only —
+#   nothing is uploaded and nothing is deployed.
+#
+# The site currently published at
+# https://spiritual-awakening-library.github.io/ is the default Jekyll
+# build of the README from the `main` branch. It stays untouched by this
+# workflow.
+#
+# A SEPARATE, EXPLICITLY AUTHORIZED DEPLOYMENT WORKFLOW WILL BE REQUIRED
+# LATER. When production deployment is approved, it must be created as a
+# distinct workflow (e.g. `deploy-pages.yml`) with its own review, the
+# `pages: write` + `id-token: write` permissions it needs, and an
+# `environment: github-pages` protection rule. Activation additionally
+# requires the repository owner to switch Settings → Pages → Build and
+# deployment → Source from "Deploy from a branch" to "GitHub Actions" —
+# that single setting change is what actually replaces the live site;
+# until then the Jekyll site keeps building exactly as today.
+#
+# Rollback path (documented):
+#   Repository Settings → Pages → Source: switch back to
+#   "Deploy from a branch" (branch `main`, folder `/ (root)`). The
+#   previous Jekyll site is restored on its next build.
+#
+# PR validation (pr-validation.yml) never deploys and grants only
+# read-only permissions.
+# =============================================================================
+
+name: Deployment preparation and verification (non-deploying)
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirmation:
+        description: 'Type "PREPARE" to confirm this verification-only run'
+        required: true
+        default: ''
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-deployment-preparation
+  cancel-in-progress: false
+
+jobs:
+  guard:
+    name: Guard (manual confirmation, main branch only)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Require explicit confirmation string
+        # Security: the free-text input is bound to an environment variable
+        # instead of being interpolated into the shell script, so arbitrary
+        # input is only ever compared as inert data — never parsed as shell.
+        env:
+          CONFIRMATION: ${{ github.event.inputs.confirmation }}
+        run: |
+          if [ "$CONFIRMATION" != "PREPARE" ]; then
+            echo "::error::Confirmation input must be the literal string PREPARE. Verification-only run aborted."
+            exit 1
+          fi
+      - name: Restrict execution to the approved main branch
+        run: |
+          if [ "${{ github.ref }}" != "refs/heads/main" ]; then
+            echo "::error::This preparation workflow may only be run on the approved main branch (ref: ${{ github.ref }}). Run aborted."
+            exit 1
+          fi
+
+  verify:
+    name: Full verification and static export (no deployment)
+    needs: guard
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Clean dependency installation
+        run: npm ci
+      - name: Foundation validation (Phase 0.1)
+        run: python scripts/verify_foundation.py
+      - name: Inventory validation (Phase 0.2, 31 checks)
+        run: python scripts/validate_inventory.py
+      - name: Content integrity checks (Phase 1)
+        run: python scripts/validate_content.py
+      - name: TypeScript type checking
+        run: npm run typecheck
+      - name: ESLint validation
+        run: npm run lint
+      - name: Next.js production static export
+        run: npm run build
+      - name: Verify exported routes, metadata and no-JS content
+        run: python scripts/validate_static.py
+      - name: Run summary
+        run: |
+          {
+            echo "### Verification-only preparation run completed"
+            echo ""
+            echo "- Commit: \`${{ github.sha }}\` on \`main\`"
+            echo "- All checks passed; the static export was produced in the runner workspace for inspection only."
+            echo "- No artifact was uploaded, no Pages settings were touched, and **no deployment occurred**."
+            echo "- Production deployment requires a separate, explicitly authorized deployment workflow (to be created and approved later)."
+          } >> "$GITHUB_STEP_SUMMARY"
