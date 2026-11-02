@@ -1,0 +1,79 @@
+name: Deploy Spiritual Awakening Library (Next.js static)
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirmation:
+        description: 'Type DEPLOY to publish the static site from main'
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-production
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.ref == 'refs/heads/main' && inputs.confirmation == 'DEPLOY'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install locked dependencies
+        run: npm ci
+      - name: TypeScript check
+        run: npm run typecheck
+      - name: ESLint check
+        run: npm run lint
+      - name: Validate foundation
+        run: python scripts/verify_foundation.py
+      - name: Validate inventories
+        run: python scripts/validate_inventory.py
+      - name: Validate reader content
+        run: python scripts/validate_content.py
+      - name: Check production dependencies
+        run: npm audit --omit=dev
+      - name: Build static export
+        run: npm run build
+      - name: Validate static export
+        run: python scripts/validate_static.py
+      - name: Verify publishable output
+        run: |
+          test -f out/index.html
+          test -f out/zh-TW/index.html
+          test -f out/en/index.html
+          test -f out/sitemap.xml
+          test -f out/robots.txt
+          test ! -L out
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: out
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main' && inputs.confirmation == 'DEPLOY'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy static site
+        id: deployment
+        uses: actions/deploy-pages@v4
