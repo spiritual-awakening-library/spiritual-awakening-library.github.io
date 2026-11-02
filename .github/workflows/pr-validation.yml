@@ -1,4 +1,4 @@
-name: PR validation (documentation foundation)
+name: PR validation (documentation foundation + bilingual app)
 
 on:
   pull_request:
@@ -24,3 +24,29 @@ jobs:
         run: python scripts/verify_foundation.py
       - name: Validate complete book inventories
         run: python scripts/validate_inventory.py
+
+  validate-app:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout PR content
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - name: Clean dependency installation
+        run: npm ci
+      - name: TypeScript type checking
+        run: npm run typecheck
+      - name: ESLint validation
+        run: npm run lint
+      - name: Content integrity checks
+        run: python scripts/validate_content.py
+      - name: Next.js production static export
+        run: npm run build
+      - name: Verify exported routes, metadata and no-JS content
+        run: python scripts/validate_static.py

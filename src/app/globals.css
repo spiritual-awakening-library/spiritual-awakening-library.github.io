@@ -1,0 +1,139 @@
+@import "tailwindcss";
+
+/*
+ * Spiritual Awakening Library — warm-paper design tokens.
+ * Calm, refined reading surface; no dark mode in Phase 1 (deliberate:
+ * the approved reading style is a single warm-paper light theme).
+ */
+@theme {
+  /* paper & ink */
+  --color-paper: #faf6ed;
+  --color-paper-deep: #f2ebdc;
+  --color-block: #fffdf6;
+  --color-ink: #35312a;
+  --color-ink-soft: #6f6555;
+  --color-ink-faint: #a2947d;
+  --color-line: #e3d9c3;
+  --color-line-strong: #cdbf9f;
+  --color-accent: #8a5a3b;
+  --color-accent-deep: #6d4529;
+  --color-accent-wash: #f4e9dc;
+  --color-seal: #9c4a38;
+
+  /* typography */
+  --font-serif: "Noto Serif TC", "Source Han Serif TC", "Source Han Serif CJK TC",
+    "Songti TC", "PMingLiU", "Georgia", "Times New Roman", serif;
+  --font-sans: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei",
+    "Helvetica Neue", Arial, sans-serif;
+
+  /* reading rhythm (used by ReadingBlock) */
+  --reading-size: 1.0625rem;
+  --reading-leading: 2.05;
+  --reading-measure: 40rem;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background-color: var(--color-accent-wash);
+  color: var(--color-accent-deep);
+}
+
+/* calm, restrained custom scrollbars for long directories */
+.scroll-calm {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-line-strong) transparent;
+}
+.scroll-calm::-webkit-scrollbar {
+  width: 8px;
+}
+.scroll-calm::-webkit-scrollbar-track {
+  background: transparent;
+}
+.scroll-calm::-webkit-scrollbar-thumb {
+  background-color: var(--color-line-strong);
+  border-radius: 4px;
+}
+.scroll-calm::-webkit-scrollbar-thumb:hover {
+  background-color: var(--color-ink-faint);
+}
+
+/* ---- reader ---- */
+.reading-surface {
+  font-family: var(--font-serif);
+  font-size: var(--reading-size);
+  line-height: var(--reading-leading);
+}
+
+.reading-block {
+  background-color: var(--color-block);
+  border: 1px solid var(--color-line);
+  border-radius: 6px;
+  padding: 1.75rem 1.875rem;
+}
+
+.reading-block + .reading-block {
+  margin-top: 1.75rem;
+}
+
+.reading-block p {
+  margin: 0 0 1.125em;
+  text-align: justify;
+  text-justify: inter-ideograph;
+}
+
+.reading-block p:last-child {
+  margin-bottom: 0;
+}
+
+.reading-block p[lang="en"] {
+  text-align: left;
+  text-justify: auto;
+}
+
+.reading-para {
+  scroll-margin-top: 6.5rem;
+}
+
+.reading-para:target {
+  background-color: color-mix(in srgb, var(--color-accent-wash) 65%, transparent);
+  outline: 1px solid var(--color-line-strong);
+}
+
+/* focus visibility for keyboard users */
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+@media (min-width: 768px) {
+  .reading-block {
+    padding: 2.25rem 2.75rem;
+  }
+}
+
+@media print {
+  .no-print {
+    display: none;
+  }
+  .reading-block {
+    border: none;
+    padding: 0;
+  }
+  .reading-block + .reading-block {
+    margin-top: 1rem;
+  }
+}
