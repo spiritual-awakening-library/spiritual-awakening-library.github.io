@@ -1,0 +1,11 @@
+﻿book_id,entry_id,entry_kind,order,original_title,printed_page,pdf_page,language,source_status,translation_status,review_notes
+book-1,chapter-01,chapter,1,本源與宇宙次元,014,8,zh-TW,toc-and-opening-verified,not-started,Source TOC and body beginning visible
+book-1,chapter-14,chapter,14,生活才是你修行的重心,113,,zh-TW,toc-verified,not-started,Confirm actual PDF page and printed page in body
+book-1,chapter-22,chapter,22,世界七大哉問｜神性基因（上）,161,,zh-TW,toc-verified,not-started,Printed page should be confirmed from scanned TOC
+book-1,chapter-23,chapter,23,世界七大哉問｜神性基因（中）,,,zh-TW,toc-verified,not-started,TOC segment requires printed page confirmation
+book-1,chapter-24,chapter,24,世界七大哉問｜神性基因（下）,,,zh-TW,toc-verified,not-started,TOC segment requires printed page confirmation
+book-1,chapter-82,chapter,82,生命之流,598,,zh-TW,toc-verified,not-started,Printed page TOC; check body
+book-2,unassigned-001,essay,,悟了之後,,,zh-TW,toc-verified,not-started,Series comprises multiple distinct entries; stable IDs not assigned
+book-2,unassigned-002,essay,,生活裡覺醒的第一步,,,zh-TW,toc-verified,not-started,Verify PDF page and body boundaries
+book-2,unassigned-003,essay,,生活裡覺醒的第二步,,,zh-TW,toc-verified,not-started,Verify PDF page and body boundaries
+book-2,unassigned-004,essay,,生活裡覺醒的第三步,,,zh-TW,toc-verified,not-started,Verify PDF page and body boundaries
